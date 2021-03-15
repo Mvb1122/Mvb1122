@@ -1,4 +1,1 @@
-wassup losers it's a me, mvb. 
-
-
-idk browse my trash idc
+![](https://raw.githubusercontent.com/Mvb1122/Mvb1122/main/test.svg)
