@@ -8,5 +8,3 @@ I would be surprised if there was somebody who makes more trash than me.
 - Java
 
 ![](https://raw.githubusercontent.com/Mvb1122/Mvb1122/main/test.svg)
-
-![](https://github.com/Mvb1122/Mvb1122/blob/main/info.svg)
