@@ -6,8 +6,9 @@ I would be surprised if there was somebody who makes more trash than me.
 - English
 - JavaScript
 - Java
-- C++ (Currently learning)
-- Python (Currently learning)
+- C#
+- C++ (No longer learning)
+- Python (No longer learning)
 
 ![](https://raw.githubusercontent.com/Mvb1122/Mvb1122/main/test.svg)
 
