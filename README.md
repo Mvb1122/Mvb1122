@@ -6,9 +6,11 @@ I would be surprised if there was somebody who makes more trash than me.
 - English
 - JavaScript
 - Java
+- HTML
+- CSS
 - C#
-- C++ (On Pause)
-- Python (On Pause)
+- C++ (Badly)
+- Python (Badly)
 
 ![](https://raw.githubusercontent.com/Mvb1122/Mvb1122/main/test.svg)
 
