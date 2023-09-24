@@ -10,6 +10,7 @@ I would be surprised if there was somebody who makes more trash than me.
 - CSS
 - C#
 - C++ (Badly)
+- Japanese (Badly)
 - Python (Badly)
 
 ![](https://raw.githubusercontent.com/Mvb1122/Mvb1122/main/test.svg)
