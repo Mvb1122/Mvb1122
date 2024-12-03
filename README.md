@@ -3,7 +3,7 @@ I would be surprised if there was somebody who makes more trash than me.
 
 # Known languages:
 (In order of learning)
-- English
+- English (Badly)
 - JavaScript
 - Java
 - HTML
