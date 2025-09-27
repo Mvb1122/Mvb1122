@@ -5,12 +5,13 @@ I would be surprised if there was somebody who makes more trash than me.
 (In order of learning)
 - English (Badly)
 - JavaScript
+- Japanese (無理)
 - Java
 - HTML
 - CSS
 - C#
 - C++ (Badly)
-- Japanese (Badly)
+- C (Badly)
 - Python (Badly)
 
 ![](https://raw.githubusercontent.com/Mvb1122/Mvb1122/main/test.svg)
