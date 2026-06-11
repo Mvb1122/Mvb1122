@@ -4,8 +4,8 @@ I would be surprised if there was somebody who makes more trash than me.
 # Known languages:
 (In order of learning)
 - English (Badly)
+- Japanese (これも下手)
 - JavaScript
-- Japanese (無理)
 - Java
 - HTML
 - CSS
